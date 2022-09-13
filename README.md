@@ -1,0 +1,1 @@
+# fpyajs_clear-function
