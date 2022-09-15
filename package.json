@@ -2,7 +2,7 @@
   "name": "fpyajs_clear-function",
   "version": "1.0.0",
   "description": "Во время игры вам необходимо будет отображать полоску жизни над игровым персонажем. Для сигнализации пользователю вы решили ввести цветовую индикацию:",
-  "main": "health.js",
+  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "test": "jest --coverage"
