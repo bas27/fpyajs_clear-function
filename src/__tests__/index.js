@@ -1,4 +1,4 @@
-import health from '../index';
+import health from '../index.js';
 
 test.each([
   ['Nik', 5, 'critical'],
