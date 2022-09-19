@@ -1,4 +1,5 @@
 # fpyajs_clear-function
+[![Build status](https://ci.appveyor.com/api/projects/status/cfegu0d4v4pyw8d1?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-clear-function)
 
 # Легенда
 Во время игры вам необходимо будет отображать полоску жизни над игровым персонажем. Для сигнализации пользователю вы решили ввести цветовую индикацию:
